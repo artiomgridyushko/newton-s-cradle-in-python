@@ -49,7 +49,7 @@ t5 = t1.clone()
 t5.goto(60, 0)
 t5.showturtle()
 
-g = 9.81  # Ускорение свободного падения, м/с^2
+g = 9.81 
 
 FONT = ('Times New Roman', 20, 'bold')
 angle = float(wn.textinput('Колебания маятника', 'Введите угол отклонения:'))
